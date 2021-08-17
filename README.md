@@ -2,10 +2,10 @@
 Cube War Ship is a turn-based tactics game using Unity.
 
 ## Table of Contents
-- [ChangeLog](#ChangeLog)
-- [Contributing](#contributing)
+- [Changelog](#Changelog)
+- [Contributors](#Contributors)
 
-## ChangeLog
+## Changelog
 ### [Unreleased] - 2018-09-29
 Project finished.
 ### [Unreleased] - 2021-08-13
@@ -14,10 +14,10 @@ Upload full project to github.
 Added
 - readme.md
 
-## Contributing
-Insoo Lee
-Eunhaeng Lee 
-Yoonhwan Jung 
-KCM
-KMJ
-LCG
+## Contributors
+- Insoo Lee
+- Eunhaeng Lee 
+- Yoonhwan Jung 
+- KCM
+- KMJ
+- LCG
